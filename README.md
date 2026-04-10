@@ -2,7 +2,7 @@
 
 ---
 
-# 🔢 NLP Feature Engineering App
+# 🔢 NLP Feature Engineering Playground App
 
 An interactive **Streamlit application** that transforms raw text into numerical representations using core **NLP feature engineering techniques** like **Bag of Words (BoW), TF-IDF, and N-grams**.
 
@@ -43,8 +43,8 @@ An interactive **Streamlit application** that transforms raw text into numerical
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/nlp-feature-engineering-app.git
-cd nlp-feature-engineering-app
+git clone https://github.com/Ayankhan79/NLP-Feature-Engineering-Playground.git
+cd NLP-Feature-Engineering-Playground
 ```
 
 ### 2. Install dependencies
